@@ -1,6 +1,6 @@
 from math import rand
 import random
-
+print("Tic tac toe is a wonderful game")
 
 def disp_board(game):
     print(game[0]+'|'+game[1]+'|'+game[2])
